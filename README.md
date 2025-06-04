@@ -1,5 +1,3 @@
-# Kisarov_test
-My first repository on the course DE (Stepic)
 # Удивительная база данных вакансий
 
 ![SQLite Version](https://img.shields.io/badge/sqlite-3.32.3-blue)
